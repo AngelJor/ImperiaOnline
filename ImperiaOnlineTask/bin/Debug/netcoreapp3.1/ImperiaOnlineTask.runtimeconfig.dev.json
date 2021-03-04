@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jorda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jorda\\.nuget\\packages"
+    ]
+  }
+}
